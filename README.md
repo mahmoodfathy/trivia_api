@@ -272,3 +272,10 @@ in case any errors it returns a 404 error with this response:
       'message':'resource not found!'
     }
 ```
+## About the stack
+
+### Backend
+The ./backend directory contains a  completed Flask and SQLAlchemy server with completed endpoints and a posgresql database.
+
+### Frontend
+The ./frontend directory contains a complete React frontend to consume the data from the Flask server. 
