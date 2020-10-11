@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5824db0c-77c9-40ce-9b6f-265c61fde3c8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ig24c5CcK85eDaqVAYxNHCHiNO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pc\PycharmProjects\trivia\backend" />
+      <recent name="C:\Users\pc\PycharmProjects\trivia\backend\flaskr" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in test_flaskr.py">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="trivia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backend/flaskr" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backend/flaskr/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_flaskr.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="trivia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backend" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/backend/test_flaskr.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in test_flaskr.py" />
+        <item itemvalue="Python.__init__" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5824db0c-77c9-40ce-9b6f-265c61fde3c8" name="Default Changelist" comment="" />
+      <created>1602314725439</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602314725439</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="394" y="142" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602321491234">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="394" y="142" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1602321491234" />
+    <state width="1258" height="139" key="GridCell.Tab.0.bottom" timestamp="1602422087102">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1258" height="139" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602422087102" />
+    <state width="1258" height="139" key="GridCell.Tab.0.center" timestamp="1602422087102">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1258" height="139" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1602422087102" />
+    <state width="1258" height="139" key="GridCell.Tab.0.left" timestamp="1602422087102">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1258" height="139" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1602422087102" />
+    <state width="1258" height="139" key="GridCell.Tab.0.right" timestamp="1602422087102">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1258" height="139" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602422087102" />
+    <state x="141" y="0" key="SettingsEditor" timestamp="1602321696275">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="141" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1602321696275" />
+    <state x="335" y="162" key="com.intellij.ide.util.TipDialog" timestamp="1602411968860">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="335" y="162" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1602411968860" />
+    <state x="0" y="0" width="606" height="680" key="find.popup" timestamp="1602317846326">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="606" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1602317846326" />
+  </component>
+</project>
