@@ -256,6 +256,7 @@ if there are no more questions in this category then it returns
 DELETE '/api/questions/<int:id>'
 ```
 ```
+This endpoint deletes a specific question 
 request parameters: question id:int
 returns
 
